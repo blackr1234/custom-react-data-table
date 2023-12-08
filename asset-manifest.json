@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/custom-react-data-table/static/css/main.fcac9524.css",
+    "main.js": "/custom-react-data-table/static/js/main.270a60e5.js",
+    "index.html": "/custom-react-data-table/index.html",
+    "main.fcac9524.css.map": "/custom-react-data-table/static/css/main.fcac9524.css.map",
+    "main.270a60e5.js.map": "/custom-react-data-table/static/js/main.270a60e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcac9524.css",
+    "static/js/main.270a60e5.js"
+  ]
+}
