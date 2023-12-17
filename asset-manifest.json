@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/custom-react-data-table/static/css/main.00c046ca.css",
-    "main.js": "/custom-react-data-table/static/js/main.87fca8d3.js",
+    "main.js": "/custom-react-data-table/static/js/main.28f34a91.js",
     "index.html": "/custom-react-data-table/index.html"
   },
   "entrypoints": [
     "static/css/main.00c046ca.css",
-    "static/js/main.87fca8d3.js"
+    "static/js/main.28f34a91.js"
   ]
 }
