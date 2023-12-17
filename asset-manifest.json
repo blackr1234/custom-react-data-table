@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/custom-react-data-table/static/css/main.bb351037.css",
-    "main.js": "/custom-react-data-table/static/js/main.2dd12031.js",
+    "main.css": "/custom-react-data-table/static/css/main.6b29f046.css",
+    "main.js": "/custom-react-data-table/static/js/main.fce8652a.js",
     "index.html": "/custom-react-data-table/index.html"
   },
   "entrypoints": [
-    "static/css/main.bb351037.css",
-    "static/js/main.2dd12031.js"
+    "static/css/main.6b29f046.css",
+    "static/js/main.fce8652a.js"
   ]
 }
